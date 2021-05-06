@@ -31,6 +31,7 @@ C:\ProgramData\ORS\DragonflyXXXX.X\pythonAllUsersExtensions\PythonPluginExtensio
 18. RETURN TO "AppData/Local/Ors/Dragonfly/pythonUserExtensions/Macros" FROM STEP 8
 19. Open "SegmentAstrocytefromVolumev2_XXXXXXXX.py" with a text editor (notepad is fine)
 20. Navigate to line 68
+
 ![image](https://user-images.githubusercontent.com/72811153/117325074-63d51580-ae5e-11eb-9913-3a8a0a4459d1.png)
 
 21. Paste only the UID of the astrocyte folder and mitochondria folder into the quotation marks
