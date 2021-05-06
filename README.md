@@ -35,6 +35,7 @@ C:\ProgramData\ORS\DragonflyXXXX.X\pythonAllUsersExtensions\PythonPluginExtensio
 ![image](https://user-images.githubusercontent.com/72811153/117325074-63d51580-ae5e-11eb-9913-3a8a0a4459d1.png)
 
 21. Paste only the UID of the astrocyte folder and mitochondria folder into the quotation marks
+
 ![image](https://user-images.githubusercontent.com/72811153/117325325-9848d180-ae5e-11eb-83b3-9f71e8a0ca22.png)
 
 22. Save the python file
