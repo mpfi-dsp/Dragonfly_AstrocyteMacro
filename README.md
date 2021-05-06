@@ -29,4 +29,11 @@ C:\ProgramData\ORS\DragonflyXXXX.X\pythonAllUsersExtensions\PythonPluginExtensio
 17. Repeat steps 14-16 for your mitochondria model folder.
 
 18. RETURN TO "AppData/Local/Ors/Dragonfly/pythonUserExtensions/Macros" FROM STEP 8
-19. 
+19. Open "SegmentAstrocytefromVolumev2_XXXXXXXX.py" with a text editor (notepad is fine)
+20. Navigate to line 68 
+![image](https://user-images.githubusercontent.com/72811153/117325074-63d51580-ae5e-11eb-9913-3a8a0a4459d1.png)
+22. Paste only the UID of the astrocyte folder and mitochondria folder into the quotation marks
+![image](https://user-images.githubusercontent.com/72811153/117325325-9848d180-ae5e-11eb-83b3-9f71e8a0ca22.png)
+23. Save the python file
+24. Open dragonfly and test macro!
+
