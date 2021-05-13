@@ -142,6 +142,7 @@ for i in range(mitoArray.shape[0]):
 
     roiSingle_dilated = newROI[i]
     for cnt in mitocnts_dilated:
+        perimeter_intersection = 0
         drawing_dilated = np.zeros((mitoArray.shape[1], mitoArray.shape[2]), np.uint8)
         if cv2.contourArea(cnt) > 15:
             perimeter_dilated_mito = cv2.arcLength(cnt, True)
