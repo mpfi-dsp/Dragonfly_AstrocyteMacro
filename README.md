@@ -14,10 +14,14 @@ The following instructions will allow you to install this macro across any new c
 8. KEEP THIS FOLDER OPEN WHILE YOU DO STEPS 9 - 17
 
 9. Open Dragonfly Program
-10. Navigate to the "Artificial Intelligence" tab
-11. On the drop down, click "Deep Learning Tool"
-12. Right click your model of interest, and select "Open Model Folder in File Browser"
-13. At the top of your file browser, click the "models" folder that comes right before the specific network model folder you are in. 
+11. Navigate to the "Utilities" tab
+12. On the drop down, click "Start Command Prompt"
+13. In the Command Prompt, type "pip install opencv-python"
+14. Close and reopen dragonfly once the python package has been installed
+15. Navigate to the "Artificial Intelligence" tab
+16. On the drop down, click "Deep Learning Tool"
+17. Right click your model of interest, and select "Open Model Folder in File Browser"
+18. At the top of your file browser, click the "models" folder that comes right before the specific network model folder you are in. 
 You should have navigated from this:
 C:\ProgramData\ORS\DragonflyXXXX.X\pythonAllUsersExtensions\PythonPluginExtensions\DeepTrainer\models\SpecificNetworkModel_XXXXXXXXXXXXXXXXXXXXX
 to this:
